@@ -17,4 +17,3 @@ if (isMainThread) {
     parentPort.postMessage(`Message received from the main thread: ${message}`);
   });
 }
-

@@ -3,7 +3,8 @@
 *Stability: 1 - Experimental*
 
 ##Contents
-  - Example of receiving message from parent thread in a child thread (workerThreads1.js)
+  - [Example: receiving message from parent thread in a child thread](10)
+  - [Example: creating child thread with predefined data](11)
 
 
 *Links:*
@@ -18,3 +19,5 @@
 [2]:https://github.com/HowProgrammingWorks/Mutex
 [3]:https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
 [4]:https://nodejs.org/api/worker_threads.html
+[10]:https://bitbucket.org/obochurkin/worker-threads-p/src/master/workerThreads1.js
+[11]:https://bitbucket.org/obochurkin/worker-threads-p/src/master/workerThreads2.js
