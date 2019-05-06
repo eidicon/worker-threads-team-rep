@@ -3,6 +3,7 @@
  * Message Channel
  * Example: usage of a message exchange between messagePorts (asynchronous, two-way communications channel)
  */
+
 const { MessageChannel } = require('worker_threads')
 
 const { port1, port2 } = new MessageChannel()
