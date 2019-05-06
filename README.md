@@ -19,5 +19,5 @@
 [2]:https://github.com/HowProgrammingWorks/Mutex
 [3]:https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
 [4]:https://nodejs.org/api/worker_threads.html
-[10]:workerThreads1.js
-[11]:workerThreads2.js
+[10]:(workerThreads1.js)
+[11]:(workerThreads2.js)
