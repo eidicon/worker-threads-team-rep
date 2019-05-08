@@ -21,6 +21,6 @@ if (isMainThread) {
     for (let i = 0; i < 10; i++) {
       array[i] += value
     }
-    console.dir([ threadId, array ])
+    console.dir([ { threadId }, { array } ])
   }, 1000)
 }

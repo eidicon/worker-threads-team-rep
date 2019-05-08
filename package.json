@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@bitbucket.org:obochurkin/worker-threads-p.git",
-  "author": "Oleksii Bochurkin <obochurkin@lohika.com>",
   "license": "MIT",
   "private": true,
   "devDependencies": {
