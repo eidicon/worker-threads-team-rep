@@ -7,6 +7,9 @@
   - [Example: creating child thread with predefined data](workerThreads2.js)
   - [Example: usage of a message exchange between messagePorts (asynchronous, two-way communications channel)](workerThreads3.js)
   - [Example: race condition](raceCondition.js)
+  #### *Resolving race conditions*
+  - [Example: atomics](atomics.js)
+  - [Example: binary semaphore](binarySemaphore.js)
 
 
 #### *Links:*
@@ -17,7 +20,7 @@
 
 
 
-[1]:https://github.com/HowProgrammingWorks/Threads
-[2]:https://github.com/HowProgrammingWorks/Mutex
-[3]:https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
-[4]:https://nodejs.org/api/worker_threads.html
+[1]: https://github.com/HowProgrammingWorks/Threads/Readme.md
+[2]: https://github.com/HowProgrammingWorks/Mutex/Readme.md
+[3]: https://www.slideshare.net/tshemsedinov/shared-memory-and-multithreading-in-nodejs-timur-shemsedinov-jsfest19
+[4]: https://nodejs.org/api/worker_threads.html
