@@ -8,7 +8,7 @@
   - [Example: usage of a message exchange between messagePorts (asynchronous, two-way communications channel)](workerThreads3.js)
   - [Example: race condition](raceCondition.js)
 
-  #### *Resolving race conditions*
+#### *Resolving race conditions*
 
   - [Example: atomics](atomics.js)
   - [Example: binary semaphore](semaphoreExample.js)
